@@ -1,0 +1,43 @@
+<!-- ====== About Section 1 Start ====== -->
+
+Discover the Story Behind Rang Mahal
+
+At Rang Mahal, our journey began with a passion for blending traditional craftsmanship with contemporary design. Our mission is to bring elegance and vibrancy to your wardrobe with unique collections inspired by heritage and modern trends.
+
+<i class="ri-checkbox-circle-fill"><span>Founded with the goal to redefine style</span></i>
+<i class="ri-checkbox-circle-fill"><span>Handcrafted collections by skilled artisans</span></i>
+<i class="ri-checkbox-circle-fill"><span>Incorporating sustainable practices in all our designs</span></i>
+
+<!-- ====== About Section 1 End ====== -->
+
+
+<!-- ====== About Section 2 Start ====== -->
+
+Why Choose Rang Mahal: Our Vision & Values
+
+We believe in more than just selling products—we strive to offer an experience that aligns with your fashion desires and lifestyle. At Rang Mahal, our core values reflect who we are and how we operate.
+
+<i class="ri-checkbox-circle-fill"><span>Customer-Centric Approach</span></i>
+<i class="ri-checkbox-circle-fill"><span>Sustainability</span></i>
+<i class="ri-checkbox-circle-fill"><span>Quality Assurance</span></i>
+
+<!-- ====== About Section 2 End ====== -->
+
+
+<!-- ====== Our Team Section Start ====== -->
+
+Our Team
+
+Karan Patel
+CEO & Founder
+<i class="ri-linkedin-box-fill"></i>
+
+Riya Kapoor
+CMO
+<i class="ri-linkedin-box-fill"></i>
+
+Harsh Gupta
+CTO
+<i class="ri-linkedin-box-fill"></i>
+
+<!-- ====== Our Team Section End ====== -->

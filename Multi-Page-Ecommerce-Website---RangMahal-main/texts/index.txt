@@ -1,0 +1,225 @@
+<!-- ====== Header Section Start ====== -->
+
+Home
+Category
+Popular
+About
+Product
+Contact Us
+
+Rang Mahal - Home
+Rang<span>Mahal</span>
+
+<i class="ri-shopping-cart-line"></i>
+<i class="ri-user-line"></i>
+
+Oversized Tees
+₹ 499
+x1
+
+Shirts
+₹ 399
+x1
+
+2 Items
+Total: ₹ 898
+
+Proceed to Pay
+
+Login To Continue
+Forget Password?
+Create account
+
+<!-- ====== Header Section End ====== -->
+
+
+<!-- ====== Home Section Start ====== -->
+
+<span>Elevate Your Style</span> <br>with Rang Mahal
+
+Stay informed with the newest fashion trends, expert style tips, and creative inspiration for a unique look.
+
+Find Your Style
+<i class="ri-arrow-right-line"></i>
+
+Rang Mahal Clothing Collection - Elevate Your Style
+
+<!-- ====== Home Section End ====== -->
+
+
+<!-- ====== Category Section Start ====== -->
+
+Popular Categories
+
+See All
+
+Oversized Tees
+50% Off
+<i class="ri-arrow-right-up-line"></i>
+
+Casual Shirts
+40% Off
+<i class="ri-arrow-right-up-line"></i>
+
+Jeans
+70% Off
+<i class="ri-arrow-right-up-line"></i>
+
+Jacket
+60% Off
+<i class="ri-arrow-right-up-line"></i>
+
+<!-- ====== Category Section End ====== -->
+
+
+<!-- ====== Popular Product Section Start ====== -->
+
+Popular Products
+
+See All
+
+Check Tees
+₹ 399
+<i class="ri-shopping-cart-line"></i>
+
+Cozy Velvet
+₹ 480
+<i class="ri-shopping-cart-line"></i>
+
+Floral Tees
+₹ 450
+<i class="ri-shopping-cart-line"></i>
+
+Classic Tees
+₹ 899
+<i class="ri-shopping-cart-line"></i>
+
+<!-- ====== popular Section End ====== -->
+
+
+<!-- ====== About Section Start ====== -->
+
+About Us
+
+Discover unique, handcrafted designs at Rang Mahal. Elevate your wardrobe with vibrant styles that celebrate tradition and modernity.
+
+<i class="ri-checkbox-circle-fill"><span>Free Home Delivery</span></i>
+<i class="ri-checkbox-circle-fill"><span>Easy Returns</span></i>
+<i class="ri-checkbox-circle-fill"><span>Quality Assurance</span></i>
+
+More About Us
+
+<!-- ====== About Section End ====== -->
+
+
+<!-- ====== Products Section Start ====== -->
+
+<i class="ri-arrow-right-line"></i>
+
+Product Shop
+See All
+
+Soft Tshit
+₹ 499
+<i class="ri-shopping-cart-line"></i>
+
+Checked
+₹ 387
+<i class="ri-shopping-cart-line"></i>
+
+Dulex Tshirt
+₹ 799
+<i class="ri-shopping-cart-line"></i>
+
+Textured Tees
+₹ 999
+<i class="ri-shopping-cart-line"></i>
+
+Checked
+₹ 499
+<i class="ri-shopping-cart-line"></i>
+
+Pluto Tshirts
+₹ 499
+<i class="ri-shopping-cart-line"></i>
+
+Luxe Tshirt
+₹ 499
+<i class="ri-shopping-cart-line"></i>
+
+Oversized Tess
+₹ 999
+<i class="ri-shopping-cart-line"></i>
+
+Blue Shirt
+₹ 1499
+<i class="ri-shopping-cart-line"></i>
+
+Checked Shirt
+₹ 1999
+<i class="ri-shopping-cart-line"></i>
+
+Black Jacket
+₹ 2399
+<i class="ri-shopping-cart-line"></i>
+
+Blue Jacket
+₹ 1399
+<i class="ri-shopping-cart-line"></i>
+
+<!-- ====== Products Section End ====== -->
+
+
+<!-- ====== Newsletter Section Start ====== -->
+
+Stay Ahead of the Trends
+
+Sign up for exclusive style tips, new arrivals, and special offers!
+
+<!-- ====== Newsletter Section End ====== -->
+
+
+<!-- ====== Footer Section Start ====== -->
+
+Our Company
+
+About Us
+Help Center
+Our Blog
+Privacy Policy
+
+Popular Categories
+
+Oversized Tees
+Shirts
+Jeans
+Jacket
+
+More Information
+
+Shipping Details
+Delivery & Returns
+Contact Us
+Sitemap
+
+Connect With Us
+
+<i class="ri-facebook-circle-fill"></i>
+<i class="ri-twitter-x-line"></i>
+<i class="ri-instagram-fill"></i>
+
+<!-- ====== Footer Section End ====== -->
+
+
+<!-- ====== Copyright Section Start ====== -->
+
+&#169; Code with Aarzoo All Right Reserved
+
+<!-- ====== Copyright Section End ====== -->
+
+
+<!-- ====== Scroll Top Section Start ====== -->
+
+<i class="ri-arrow-up-line"></i>
+
+<!-- ====== Scroll Top Section End ====== -->
